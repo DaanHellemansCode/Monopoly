@@ -1,0 +1,24 @@
+package MonopolyGame;
+
+public class Game {
+    private int roundCount;
+    private Player[] players;
+    private Board board;
+
+    public Game() {}
+
+    public Game(Player[] players, Board board) {
+        this.players = players;
+        this.board = board;
+        this.roundCount = 0;
+    }
+
+    public void initialize() {
+        this.board = new Board();
+    }
+
+    public void startGame() {
+        System.out.println("Starting game");
+    }
+
+}
