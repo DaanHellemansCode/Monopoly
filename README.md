@@ -2,7 +2,8 @@
 
 Objective: Practice concepts learned during term 1 and collaborate as a team. This is your chance to put everything you have learned so far together. 
 
-Exercise 1: Week 06 Assignment: Putting It All Together! Links to an external site. 
+# Exercise 1:
+Week 06 Assignment: Putting It All Together! Links to an external site. 
 
 Group Assignmen:
 An introduction of the exercise have been given during the morning session. Now it is your turn to cooperate within your group and produce the following:
